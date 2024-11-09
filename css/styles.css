@@ -1,0 +1,60 @@
+li a {
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    color:black;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.welcome {
+    color:aquamarine
+}
+.instructions {
+    color: blue;
+}
+.name {
+    color:blueviolet
+}
+.things {
+    color:chocolate
+}
+.descrpt {
+    color: darkgreen;
+}
+.form-name {
+    color: darkblue;
+}
+.text {
+    background-color:blueviolet;
+    border: solid;
+    border-width: 0.1;
+}
+.email {
+    background-color:gray;
+    border: solid;
+    border-width: 0.1;
+}
+.subject {
+    background-color:firebrick;
+    border: solid;
+    border-width: 0.1;
+}
+.message {
+    background-color:blue;
+    border: solid;
+    border-width: 0.1;
+}
